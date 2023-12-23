@@ -1,0 +1,10 @@
+setting                                                	  objective	  auction	 impression	    click	     cost	  win-rate	
+ipinyou, camp=1458, algo=rlb, N=1000, c0=0.03125       	        271	   350000	      26292	      271	   687794	     7.51
+ipinyou, camp=2259, algo=rlb, N=1000, c0=0.03125       	         11	   350000	      46621	       11	  1001535	    13.32
+ipinyou, camp=2261, algo=rlb, N=1000, c0=0.03125       	         10	   343862	      59163	       10	   961293	    17.21
+ipinyou, camp=2821, algo=rlb, N=1000, c0=0.03125       	         23	   350000	      49261	       23	   964767	    14.07
+ipinyou, camp=2997, algo=rlb, N=1000, c0=0.03125       	         78	   156063	      39680	       78	   304375	    25.43
+ipinyou, camp=3358, algo=rlb, N=1000, c0=0.03125       	        212	   300928	      12970	      212	   836097	     4.31
+ipinyou, camp=3386, algo=rlb, N=1000, c0=0.03125       	         39	   350000	      29142	       39	   830911	     8.33
+ipinyou, camp=3427, algo=rlb, N=1000, c0=0.03125       	        171	   350000	      21678	      171	   851729	     6.19
+ipinyou, camp=3476, algo=rlb, N=1000, c0=0.03125       	        113	   350000	      18282	      113	   855048	     5.22
